@@ -104,7 +104,7 @@ The page uses the CloudFront distribution domain to display the images.
 
 The HTML file used for testing is available here:
 
-**[myimages.html](./myimages.html)**
+[**myimages.html**](./myimages.html)
 
 ---
 
@@ -129,8 +129,6 @@ The second image was successfully displayed through the CloudFront distribution.
 **CloudFront Domain:**
 
 `ddp5f4bgy9gp7.cloudfront.net`
-
-The CloudFront distribution provides access to the S3 content through CloudFront rather than direct public access to the S3 bucket.
 
 ---
 
