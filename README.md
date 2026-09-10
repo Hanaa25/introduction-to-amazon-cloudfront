@@ -40,11 +40,11 @@ CloudFront retrieves the image objects from the S3 origin and delivers them thro
 
 ## 🛠️ AWS Services Used
 
-| Service                    | Purpose                  |
-| -------------------------- | ------------------------ |
-| **Amazon S3**              | Store image objects      |
-| **Amazon CloudFront**      | Deliver content globally |
-| **AWS Management Console** | Configure AWS resources  |
+| Service                | Purpose                  |
+| ---------------------- | ------------------------ |
+| Amazon S3              | Store image objects      |
+| Amazon CloudFront      | Deliver content globally |
+| AWS Management Console | Configure AWS resources  |
 
 ---
 
